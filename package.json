@@ -1,0 +1,12 @@
+{
+  "name": "hackday-ai-helloworld",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "5.6.3"
+  }
+}
